@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thida612<br>
+👋 Hi, I’m @Thida612<br>
 👀 I’m interested in software development, data analytics, and contributing to impactful open source initiatives<br>
 🌱 I’m currently expanding my skills in JavaScript, Python, and machine learning frameworks<br>
 💞️ I’m open to collaborating on data-driven projects, web applications, and community-focused development efforts<br>
